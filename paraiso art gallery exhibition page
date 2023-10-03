@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<title>Paraiso Art Gallery</title>
+</head>
+
+<body>
+	<h1>Paraiso Art Gallery</h1>
+	<p> Welcome to the Paraiso Art Gallery exhibition 'Slogan t-shirts made me do it', curated by Maria Joao Tralhao Dolan September 29 2023- September 29 2024. The artwork featured in this exhibition spans cultural and experiential boundaries, and captures a sense of escapism, whimsicality and rebellion against conformity.</p>
+</body>
+<head>
+	<title> 2 examples of artwork </title>
+</head>
+
+<body>
+	<h1>Below: Mixed media and digital artwork 'Nina'</h1>
+	<img src="Nina1.jpg" height="200" alt="mixed media illustration depicting a girl on a swing of plants"> 
+	<h2>Below: Mixed media and digital artwork 'João'</h2>
+	<img src="Joao1.jpg" height="200" alt="mixed media illustration depicting a boy on rocks"> 
+	<h3> Below: mixed media digital artwork 'Beachy'</h3>
+	<img src="beachy 2.jpg" height="200" alt="mixed media illustration depicting lady sat on rocks"> 
+	
+</body>
+</html>
